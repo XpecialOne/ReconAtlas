@@ -1,0 +1,4 @@
+# Sample keywords (one per line)
+example.com
+"backup"
+nginx
